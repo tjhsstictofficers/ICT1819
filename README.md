@@ -6,4 +6,4 @@ Solutions and Writeups to USACO and In-House Contests
 [December](December)
 
 ## In-House Contests
-[First In-House](inhouse1)
+[First In-House](InHouse1)
