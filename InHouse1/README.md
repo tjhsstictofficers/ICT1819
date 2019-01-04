@@ -13,7 +13,7 @@ This document refers to the solutions of all problems in the first ICT Contest
 ### 2. Fibonacci String
 [Java](FibbString.java)
 
-### 3. Canday Fat
+### 3. Candy Fat
 [Java](CandyFat.java)
 
 ### 4. Havish's Money
