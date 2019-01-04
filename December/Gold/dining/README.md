@@ -3,7 +3,7 @@
 ## Motivation
 
 Reading this problem, we see we want to find the shortest path from each node to the end node.
-This prompts us to run a `Dijkstra's Shortest Path` Algorithm from node N. We begin by running Dijkstra from this node
+This prompts us to run a **Dijkstra's Shortest Path** Algorithm from node N. We begin by running Dijkstra from this node
 N, and we will refer to these values as the original Dijkstra throught the rest of this solution. However, we also have 
 the situation of the haybales. Our first idea would be take the shortest path from each node to each 
 haybale then the shortest path from that haybale to the end and see if the difference between this path 
