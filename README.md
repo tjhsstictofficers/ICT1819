@@ -7,3 +7,4 @@ Solutions and Writeups to USACO and In-House Contests
 
 ## In-House Contests
 [First In-House](InHouse1)
+[Second In-House](InHouse2)
